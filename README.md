@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-nlp-chatbot-project-dgqzndh89wuygpyynnhtsf.streamlit.app
+https://nlp-chatbot-project-dgqzndh89wuygpyynnhtsf.streamlit.app/
 
 ## Overview
 
